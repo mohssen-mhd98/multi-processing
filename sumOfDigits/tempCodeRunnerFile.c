@@ -1,0 +1,1 @@
+printf(strlen(fixed_str));
